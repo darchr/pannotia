@@ -1,0 +1,13 @@
+*.o
+*.out
+
+graph_app/bc/bc
+graph_app/color/coloring_max
+graph_app/color/coloring_maxmin
+graph_app/fw/floyd-warshall
+graph_app/fw/floyd-warshall-block
+graph_app/mis/mis
+graph_app/prk/pagerank
+graph_app/prk/pagerank_spmv
+graph_app/sssp/sssp_csr
+graph_app/sssp/sssp_ell
